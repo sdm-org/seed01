@@ -11,7 +11,7 @@ This project is a clone of hacker news rewritten with universal JavaScript, usin
 <p align="center" margin-bottom="0">
   <a href="http://www.hnclone.win" target="_blank">
     <img alt="Hacker News Clone Demo" width="auto" height="auto" src="docs/HN-Demo.jpg">
-  </a>
+  </a> 
 </p>
 <p align="center">
   <a href="http://www.hnclone.win">Live Demo</a>
