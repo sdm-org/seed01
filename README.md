@@ -15,7 +15,7 @@ This project is a clone of hacker news rewritten with universal JavaScript, usin
 </p>
 <p align="center">
   <a href="http://www.hnclone.win">Live Demo</a>
-</p>
+</p> 
 
 ## Overview
 
